@@ -10,6 +10,7 @@ namespace CheckHash
 	{
 		static void Main(string[] args)
 		{
+
 		}
 	}
 }
